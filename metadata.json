@@ -1,0 +1,7 @@
+{
+  "name": "Aura Style - Akıllı Dolap & Kombin Asistanı",
+  "description": "Dolabınızdaki kıyafetlerin fotoğraflarını yükleyin ve seçtiğiniz tarza göre yapay zeka destekli mükemmel kombin önerileri alın.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
